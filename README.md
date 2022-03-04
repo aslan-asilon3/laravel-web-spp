@@ -1,4 +1,6 @@
-# SPPR DISERTAI GAMBAR
+# APLIKASI SISTEM PEMBAYARAN SPP BERBASIS WEB
+
+## SPPR DISERTAI GAMBAR
 Website SPP Sekolah Dibuat Dengan : 
 - Framework Laravel 8
 - Template AdminLTE-3
@@ -8,13 +10,13 @@ Website SPP Sekolah Dibuat Dengan :
 - Spatie Laravel Role-Permission (role & permission)
 - Laravel DOMPDF (pdf)
 
-# PACKAGE
+## PACKAGE
 - Yajra Laravel DataTable Serverside 
 - Laravel Fortify (autentiksai)
 - Spatie Laravel Role-Permission
 - Laravel DOMPDF (pdf)
 
-# Login 
+## Login 
 
 - ADMIN
 username : admin123
@@ -28,17 +30,17 @@ password : password
 username : diva123
 password : password
 
-# ROLE USER
+## ROLE USER
 - admin
 - petugas
 - siswa
 
-# AUTENTIKASI
+## AUTENTIKASI
 Password default dari siswa , petugas , admin yang ditambahkan 
 adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database seeder)
 
 
-# FEATURES 
+## FEATURES 
 1.ADMIN
 (CRUD AJAX NO RELOAD)
 - CRUD Siswa
