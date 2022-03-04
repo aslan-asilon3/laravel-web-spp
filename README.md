@@ -1,6 +1,7 @@
 # APLIKASI SISTEM PEMBAYARAN SPP BERBASIS WEB
-
 ## SPPR DISERTAI GAMBAR
+
+
 Website SPP Sekolah Dibuat Dengan : 
 - Framework Laravel 8
 - Template AdminLTE-3
@@ -103,6 +104,7 @@ adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database s
 ### 9 SPPR-ADMIN-PEMBAYARAN-TAMBAH-PEMBAYARAN
 ![9 SPPR-ADMIN-PEMBAYARAN-TAMBAH-PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156728737-0c6fc8b9-a5bd-4150-bdb5-6f1bfb5b6cf5.png)
 
+
 ### 10 SPPR-ADMIN-PEMBAYARAN-TAMBAH PEMBAYARAN-DETAIL
 ![10 SPPR-ADMIN-PEMBAYARAN-TAMBAH PEMBAYARAN-DETAIL](https://user-images.githubusercontent.com/75960970/156728755-c7c5058f-b608-450d-951d-4bbd8e6f72e9.png)
 
@@ -115,6 +117,36 @@ adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database s
 
 ### 13 SPPR-ADMIN-KELAS-TAMBAH DATA KELAS
 ![13 SPPR-ADMIN-KELAS-TAMBAH DATA KELAS](https://user-images.githubusercontent.com/75960970/156728927-1612bacb-2a85-4999-bf82-c8bf043f37f2.png)
+
+### 14 SPPR-ADMIN-ADMIN
+![14 SPPR-ADMIN-ADMIN](https://user-images.githubusercontent.com/75960970/156731734-409ee236-2cfa-44a3-92b6-ee4e46e09fd1.png)
+
+### 15 SPPR-ADMIN-TAMBAH DATA
+![15 SPPR-ADMIN-TAMBAH DATA](https://user-images.githubusercontent.com/75960970/156731765-f028e5de-9d1e-4ea0-8cc7-fafe4add50c5.png)
+
+### 16 SPPR-ADMIN-ADMIN EDIT
+![16 SPPR-ADMIN-ADMIN EDIT](https://user-images.githubusercontent.com/75960970/156731787-1761f4d5-2bec-4393-aa41-43d8f5e99a68.png)
+
+### 17 SPPR-ADMIN-USER
+![17 SPPR-ADMIN-USER](https://user-images.githubusercontent.com/75960970/156731806-16a0b043-1fb8-4f71-9e63-0d3ccee81cd0.png)
+
+### 18 SPPR-ADMIN-USER EDIT
+![18 SPPR-ADMIN-USER EDIT](https://user-images.githubusercontent.com/75960970/156731840-58cf3657-2920-4c61-a720-653e5315d210.png)
+
+### 19 SPPR-ADMIN-PETUGAS
+![Uploading 19 SPPR-ADMIN-PETUGAS.png…]()
+
+### 20 SPPR-ADMIN-SPP
+![20 SPPR-ADMIN-SPP](https://user-images.githubusercontent.com/75960970/156731906-5dfe2a38-6797-43e6-bd96-023676b55010.png)
+
+### 21 SPPR-ADMIN-PEMBAYARAN
+![21 SPPR-ADMIN-PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156731928-8fe6af7b-a4d8-4bc7-af15-3409b49f82e1.png)
+
+### 22 SPPR-ADMIN-STATUS PEMBAYARAN
+![22 SPPR-ADMIN-STATUS PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156731949-f46a57a8-0af7-45b4-a999-b0a0a43262ee.png)
+
+### 23 SPPR-ADMIN- HISTORY PEMBAYARAN
+![23 SPPR-ADMIN- HISTORY PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156731967-724f84bd-5ddf-49bf-b2b7-4d924fbd8567.png)
 
 
 
