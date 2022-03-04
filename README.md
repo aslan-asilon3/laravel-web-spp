@@ -99,11 +99,11 @@ adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database s
 ![8 SPPR-ADMIN-PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156728731-1942c14d-0eb8-4a5e-a195-a663fd15357a.png)
 
 ### 9 SPPR-ADMIN-PEMBAYARAN-TAMBAH-PEMBAYARAN
-![9 SPPR-ADMIN-PEMBAYARAN-TAMBAH-PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156728737-0c6fc8b9-a5bd-415
+![9 SPPR-ADMIN-PEMBAYARAN-TAMBAH-PEMBAYARAN](https://user-images.githubusercontent.com/75960970/156728737-0c6fc8b9-a5bd-4150-bdb5-6f1bfb5b6cf5.png)
 
 ### 10 SPPR-ADMIN-PEMBAYARAN-TAMBAH PEMBAYARAN-DETAIL
 ![10 SPPR-ADMIN-PEMBAYARAN-TAMBAH PEMBAYARAN-DETAIL](https://user-images.githubusercontent.com/75960970/156728755-c7c5058f-b608-450d-951d-4bbd8e6f72e9.png)
-0-bdb5-6f1bfb5b6cf5.png)
+
 
 ### 11 SPPR-ADMIN-KELAS
 ![11 SPPR-ADMIN-KELAS](https://user-images.githubusercontent.com/75960970/156728780-33cd750a-ea44-4e56-b68c-2452b8700056.png)
