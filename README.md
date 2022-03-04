@@ -1,6 +1,6 @@
 # APLIKASI SISTEM PEMBAYARAN SPP BERBASIS WEB BY ASLAN
-## SPPR DISERTAI GAMBAR
-![1 SPPR- LOGIN](https://user-images.githubusercontent.com/75960970/156728529-33bb15bb-2a7e-40f5-bfdd-0458b78eb71c.png)
+![3 SPPR-ADMIN-DASHBOARD](https://user-images.githubusercontent.com/75960970/156728592-e24e1e0c-5a72-4398-ab15-8f5fe51bb23e.png)
+
 
 
 Website SPP Sekolah Dibuat Dengan : 
